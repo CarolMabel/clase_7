@@ -71,7 +71,7 @@
             function bolitas(x) {
                 var visual = "";
                 for (let i = 0; i < x; i++) {
-                    visual += " ● ";
+                    visual += " ✔ ";
                 }
                 return "<span>" + visual + "</span>";
             }
