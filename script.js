@@ -1,4 +1,3 @@
- <script>
             // Referencias a los tres <tbody> vacíos del HTML, donde iremos insertando filas
             const tbodyAmerica = document.querySelector("#america");
             const tbodyEuropa = document.querySelector("#europa");
@@ -75,4 +74,3 @@
                 }
                 return "<span>" + visual + "</span>";
             }
-        </script>
