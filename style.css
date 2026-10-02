@@ -1,5 +1,4 @@
-            /* Variables globales: si cambias algo aquí, cambia en todos los lugares donde se use esa variable */
-            :root {
+    :root {
                 /* Formas de definir colores (Hexadecimal, HSL, RGB, RGBA con A de Alpha, Nombrándolo) */
                 --color-bg: #eaeaea;
                 --color-bg-nota: hsl(30, 5%, 85%);
@@ -253,3 +252,4 @@
                 font-weight: 700;
                 color: var(--color-text-light);
             }
+       
